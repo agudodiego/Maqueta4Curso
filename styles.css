@@ -18,7 +18,7 @@
 
 #header{
     display: grid;
-    grid-template-columns: 68% 30%;
+    grid-template-columns: 63% 30%;
     align-items: center;
 
     width: 100%;
